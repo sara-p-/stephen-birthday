@@ -13,8 +13,7 @@ function App() {
               cannot wait to help in whatever way I can.
             </p>
             <p>
-              I don’t have very many straight friends (for various reasons), but
-              you are such a kind, generous, and nonjudgmental person that I
+              You are such a kind, generous, and nonjudgmental person that I
               consider myself lucky to have you as one of my closest friends.
               You make me feel safe.
             </p>
